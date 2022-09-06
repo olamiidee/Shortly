@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <section className="bg-veryDarkViolet px-6 py-16">
+    <section className="bg-veryDarkViolet  py-16">
       <div className="container text-center mx-auto flex flex-col items-center justify-between space-y-16  md:flex-row md:items-start md:space-y-0">
         {/* Logo */}
         <img src="images/logo.svg" alt="" />

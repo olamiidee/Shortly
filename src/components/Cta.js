@@ -4,7 +4,7 @@ export default function Cta() {
   return (
     <section className="py-24 bg-darkViolet" id="cta">
       <div className="flex flex-col items-center space-y-10 p-2">
-        <h5 className="text-4xl font-extrabold mx-auto text-white">
+        <h5 className="text-4xl font-extrabold mx-auto text-center text-white">
           Boost your links today
         </h5>
         <div>
