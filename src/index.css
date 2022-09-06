@@ -8,6 +8,16 @@
   background-size: cover;
 }
 
+@media (max-width: 768px) {
+  #cta {
+    background-image: url(/public/images/bg-boost-mobile.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+}
+
+/* Mobile Menu */
+
 .hamburger {
   cursor: pointer;
   width: 24px;
