@@ -26,7 +26,7 @@ export default function Footer() {
           </div>
           {/* Menu  */}
           <div className="flex flex-col items-center w-full md:items-start">
-            <div className="text-white font-extrabold mb-5">Features</div>
+            <div className="text-white font-extrabold mb-5">Resources</div>
             <div className="flex flex-col items-center space-y-3 md:items-start">
               <a className="text-grayishViolet hover:text-cyan" href="#">
                 Blog
@@ -41,7 +41,7 @@ export default function Footer() {
           </div>
           {/* Menu 3 */}
           <div className="flex flex-col items-center w-full md:items-start">
-            <div className="text-white font-extrabold mb-5">Features</div>
+            <div className="text-white font-extrabold mb-5">Company</div>
             <div className="flex flex-col items-center space-y-3 md:items-start">
               <a className="text-grayishViolet hover:text-cyan" href="#">
                 About

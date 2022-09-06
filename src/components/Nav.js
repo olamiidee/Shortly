@@ -21,13 +21,22 @@ export default function Nav() {
             {/* Nav Links */}
 
             <div className="hidden space-x-8 font-extrabold lg:flex">
-              <a href="#" class="text-grayishViolet hover:text-veryDarkViolet">
+              <a
+                href="#features"
+                class="text-grayishViolet hover:text-veryDarkViolet"
+              >
                 Features
               </a>
-              <a href="#" class="text-grayishViolet hover:text-veryDarkViolet">
+              <a
+                href="#pricing"
+                class="text-grayishViolet hover:text-veryDarkViolet"
+              >
                 Pricing
               </a>
-              <a href="#" class="text-grayishViolet hover:text-veryDarkViolet">
+              <a
+                href="#resources"
+                class="text-grayishViolet hover:text-veryDarkViolet"
+              >
                 Resources
               </a>
             </div>
